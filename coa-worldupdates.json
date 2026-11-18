@@ -1,0 +1,10 @@
+[
+    {
+        "UpdateStageName": "CoA core and SQUID Playerbots: fetch, build, install",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "Executable",
+        "UpdateSourceData": "/bin/bash",
+        "UpdateSourceArgs": "-c \"/mnt/CoA/coa-update.sh\"",
+        "SkipOnFailure": false
+    }
+]
