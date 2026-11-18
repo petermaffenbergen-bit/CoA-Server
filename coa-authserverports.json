@@ -1,0 +1,9 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": 3724,
+        "Name": "Auth Port",
+        "Description": "Set the same port in /mnt/CoA/etc/authserver.conf",
+        "Ref": "AuthPort"
+    }
+]

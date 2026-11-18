@@ -1,0 +1,9 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": 8085,
+        "Name": "World Port",
+        "Description": "Set the same port in /mnt/CoA/etc/worldserver.conf",
+        "Ref": "WorldPort"
+    }
+]
